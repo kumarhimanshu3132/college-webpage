@@ -26,10 +26,10 @@ Since this is a static webpage, running it locally is incredibly simple. No pack
    ```bash
    git clone https://github.com/kumarhimanshu3132/college-webpage.git
    ```
-Navigate into the project directory:
-  ```bash
+   Navigate into the project directory:
+     ```bash
     cd college-webpage
-  ```
+     ```
 2. Open the index.html file directly in your preferred web browser, or use a tool like VS Code's "Live Server" extension for hot reloading.
 
 🧠 Learning Outcomes
