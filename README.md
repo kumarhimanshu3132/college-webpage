@@ -22,15 +22,16 @@ A static, responsive landing page designed for the Department of Computer Engine
 
 Since this is a static webpage, running it locally is incredibly simple. No package managers or servers are required.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kumarhimanshu3132/college-webpage.git
-   ```
-   Navigate into the project directory:
-     ```bash
-    cd college-webpage
-     ```
-2. Open the index.html file directly in your preferred web browser, or use a tool like VS Code's "Live Server" extension for hot reloading.
+Clone the repository:
+```bash
+git clone https://github.com/kumarhimanshu3132/college-webpage.git
+```
+Navigate into the project directory:
+```bash
+cd college-webpage
+```
+
+Open the index.html file directly in your preferred web browser, or use a tool like VS Code's "Live Server" extension for hot reloading.
 
 🧠 Learning Outcomes
 This project served as a practical application of foundational web technologies, specifically focusing on document structuring, CSS specificity, block vs. inline elements, and UI/UX design principles.
